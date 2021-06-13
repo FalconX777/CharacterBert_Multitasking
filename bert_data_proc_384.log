@@ -1,0 +1,458 @@
+03/24/2021 09:54:24 Loaded 392702 MNLI train samples
+03/24/2021 09:54:24 Loaded 9815 MNLI matched dev samples
+03/24/2021 09:54:24 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 09:54:24 Loaded 9796 MNLI matched test samples
+03/24/2021 09:54:24 Loaded 9847 MNLI mismatched test samples
+03/24/2021 09:56:16 Loaded 392702 MNLI train samples
+03/24/2021 09:56:16 Loaded 9815 MNLI matched dev samples
+03/24/2021 09:56:16 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 09:56:16 Loaded 9796 MNLI matched test samples
+03/24/2021 09:56:16 Loaded 9847 MNLI mismatched test samples
+03/24/2021 09:58:15 Loaded 392702 MNLI train samples
+03/24/2021 09:58:15 Loaded 9815 MNLI matched dev samples
+03/24/2021 09:58:15 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 09:58:15 Loaded 9796 MNLI matched test samples
+03/24/2021 09:58:15 Loaded 9847 MNLI mismatched test samples
+03/24/2021 09:58:16 Loaded 8588 rqe train samples
+03/24/2021 09:58:16 Loaded 302 rqe dev samples
+03/24/2021 09:58:16 Loaded 230 rqe test samples
+03/24/2021 09:58:16 Loaded 8742 rqe_shuff train samples
+03/24/2021 09:58:16 Loaded 148 rqe_shuff dev samples
+03/24/2021 09:58:16 Loaded 230 rqe_shuff test samples
+03/24/2021 09:59:26 Loaded 392702 MNLI train samples
+03/24/2021 09:59:26 Loaded 9815 MNLI matched dev samples
+03/24/2021 09:59:26 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 09:59:26 Loaded 9796 MNLI matched test samples
+03/24/2021 09:59:26 Loaded 9847 MNLI mismatched test samples
+03/24/2021 09:59:27 Loaded 8588 rqe train samples
+03/24/2021 09:59:27 Loaded 302 rqe dev samples
+03/24/2021 09:59:27 Loaded 230 rqe test samples
+03/24/2021 09:59:27 Loaded 8742 rqe_shuff train samples
+03/24/2021 09:59:27 Loaded 148 rqe_shuff dev samples
+03/24/2021 09:59:27 Loaded 230 rqe_shuff test samples
+03/24/2021 10:00:13 Loaded 392702 MNLI train samples
+03/24/2021 10:00:13 Loaded 9815 MNLI matched dev samples
+03/24/2021 10:00:13 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 10:00:13 Loaded 9796 MNLI matched test samples
+03/24/2021 10:00:13 Loaded 9847 MNLI mismatched test samples
+03/24/2021 10:00:13 Loaded 8588 rqe train samples
+03/24/2021 10:00:13 Loaded 302 rqe dev samples
+03/24/2021 10:00:13 Loaded 230 rqe test samples
+03/24/2021 10:00:13 Loaded 8742 rqe_shuff train samples
+03/24/2021 10:00:13 Loaded 148 rqe_shuff dev samples
+03/24/2021 10:00:13 Loaded 230 rqe_shuff test samples
+03/24/2021 10:01:40 Loaded 392702 MNLI train samples
+03/24/2021 10:01:40 Loaded 9815 MNLI matched dev samples
+03/24/2021 10:01:40 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 10:01:40 Loaded 9796 MNLI matched test samples
+03/24/2021 10:01:40 Loaded 9847 MNLI mismatched test samples
+03/24/2021 10:01:40 Loaded 8588 rqe train samples
+03/24/2021 10:01:40 Loaded 302 rqe dev samples
+03/24/2021 10:01:40 Loaded 230 rqe test samples
+03/24/2021 10:01:40 Loaded 8742 rqe_shuff train samples
+03/24/2021 10:01:40 Loaded 148 rqe_shuff dev samples
+03/24/2021 10:01:40 Loaded 230 rqe_shuff test samples
+03/24/2021 10:02:09 Loaded 392702 MNLI train samples
+03/24/2021 10:02:09 Loaded 9815 MNLI matched dev samples
+03/24/2021 10:02:09 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 10:02:09 Loaded 9796 MNLI matched test samples
+03/24/2021 10:02:09 Loaded 9847 MNLI mismatched test samples
+03/24/2021 10:02:09 Loaded 8588 rqe train samples
+03/24/2021 10:02:09 Loaded 302 rqe dev samples
+03/24/2021 10:02:09 Loaded 230 rqe test samples
+03/24/2021 10:02:09 Loaded 8742 rqe_shuff train samples
+03/24/2021 10:02:09 Loaded 148 rqe_shuff dev samples
+03/24/2021 10:02:09 Loaded 230 rqe_shuff test samples
+03/24/2021 10:05:25 Loaded 392702 MNLI train samples
+03/24/2021 10:05:25 Loaded 9815 MNLI matched dev samples
+03/24/2021 10:05:25 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 10:05:25 Loaded 9796 MNLI matched test samples
+03/24/2021 10:05:25 Loaded 9847 MNLI mismatched test samples
+03/24/2021 10:05:25 Loaded 8588 rqe train samples
+03/24/2021 10:05:25 Loaded 302 rqe dev samples
+03/24/2021 10:05:25 Loaded 230 rqe test samples
+03/24/2021 10:05:25 Loaded 8742 rqe_shuff train samples
+03/24/2021 10:05:25 Loaded 148 rqe_shuff dev samples
+03/24/2021 10:05:25 Loaded 230 rqe_shuff test samples
+03/24/2021 10:05:41 Loaded 392702 MNLI train samples
+03/24/2021 10:05:41 Loaded 9815 MNLI matched dev samples
+03/24/2021 10:05:41 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 10:05:41 Loaded 9796 MNLI matched test samples
+03/24/2021 10:05:41 Loaded 9847 MNLI mismatched test samples
+03/24/2021 10:05:41 Loaded 8588 rqe train samples
+03/24/2021 10:05:41 Loaded 302 rqe dev samples
+03/24/2021 10:05:41 Loaded 230 rqe test samples
+03/24/2021 10:05:41 Loaded 8742 rqe_shuff train samples
+03/24/2021 10:05:41 Loaded 148 rqe_shuff dev samples
+03/24/2021 10:05:41 Loaded 230 rqe_shuff test samples
+03/24/2021 10:06:02 Loaded 392702 MNLI train samples
+03/24/2021 10:06:02 Loaded 9815 MNLI matched dev samples
+03/24/2021 10:06:02 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 10:06:02 Loaded 9796 MNLI matched test samples
+03/24/2021 10:06:02 Loaded 9847 MNLI mismatched test samples
+03/24/2021 10:06:02 Loaded 8588 rqe train samples
+03/24/2021 10:06:02 Loaded 302 rqe dev samples
+03/24/2021 10:06:02 Loaded 230 rqe test samples
+03/24/2021 10:06:02 Loaded 8742 rqe_shuff train samples
+03/24/2021 10:06:02 Loaded 148 rqe_shuff dev samples
+03/24/2021 10:06:02 Loaded 230 rqe_shuff test samples
+03/24/2021 10:06:02 Loaded 1504 mediqa train samples
+03/24/2021 10:06:02 Loaded 5 mediqa dev samples
+03/24/2021 10:06:02 Loaded 1107 mediqa test samples
+03/24/2021 10:06:02 Loaded 1387,548 mediqa splitted samples
+03/24/2021 10:06:02 Loaded 1411,524 mediqa splitted samples
+03/24/2021 10:06:02 Loaded 1381,554 mediqa splitted samples
+03/24/2021 10:06:02 Loaded 1392,543 mediqa splitted samples
+03/24/2021 10:06:02 Loaded 1381,554 mediqa splitted samples
+03/24/2021 10:11:10 Loaded 392702 MNLI train samples
+03/24/2021 10:11:10 Loaded 9815 MNLI matched dev samples
+03/24/2021 10:11:10 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 10:11:10 Loaded 9796 MNLI matched test samples
+03/24/2021 10:11:10 Loaded 9847 MNLI mismatched test samples
+03/24/2021 10:11:10 Loaded 8588 rqe train samples
+03/24/2021 10:11:10 Loaded 302 rqe dev samples
+03/24/2021 10:11:10 Loaded 230 rqe test samples
+03/24/2021 10:11:10 Loaded 8742 rqe_shuff train samples
+03/24/2021 10:11:10 Loaded 148 rqe_shuff dev samples
+03/24/2021 10:11:10 Loaded 230 rqe_shuff test samples
+03/24/2021 10:11:11 Loaded 1504 mediqa train samples
+03/24/2021 10:11:11 Loaded 5 mediqa dev samples
+03/24/2021 10:11:11 Loaded 1107 mediqa test samples
+03/24/2021 10:11:11 Loaded 1387,548 mediqa splitted samples
+03/24/2021 10:11:11 Loaded 1411,524 mediqa splitted samples
+03/24/2021 10:11:11 Loaded 1381,554 mediqa splitted samples
+03/24/2021 10:11:11 Loaded 1392,543 mediqa splitted samples
+03/24/2021 10:11:11 Loaded 1381,554 mediqa splitted samples
+03/24/2021 10:11:21 Loaded 392702 MNLI train samples
+03/24/2021 10:11:21 Loaded 9815 MNLI matched dev samples
+03/24/2021 10:11:21 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 10:11:21 Loaded 9796 MNLI matched test samples
+03/24/2021 10:11:21 Loaded 9847 MNLI mismatched test samples
+03/24/2021 10:11:22 Loaded 8588 rqe train samples
+03/24/2021 10:11:22 Loaded 302 rqe dev samples
+03/24/2021 10:11:22 Loaded 230 rqe test samples
+03/24/2021 10:11:22 Loaded 8742 rqe_shuff train samples
+03/24/2021 10:11:22 Loaded 148 rqe_shuff dev samples
+03/24/2021 10:11:22 Loaded 230 rqe_shuff test samples
+03/24/2021 10:11:22 Loaded 1504 mediqa train samples
+03/24/2021 10:11:22 Loaded 5 mediqa dev samples
+03/24/2021 10:11:22 Loaded 1107 mediqa test samples
+03/24/2021 10:11:22 Loaded 1387,548 mediqa splitted samples
+03/24/2021 10:11:22 Loaded 1411,524 mediqa splitted samples
+03/24/2021 10:11:22 Loaded 1381,554 mediqa splitted samples
+03/24/2021 10:11:22 Loaded 1392,543 mediqa splitted samples
+03/24/2021 10:11:22 Loaded 1381,554 mediqa splitted samples
+03/24/2021 10:28:13 Loaded 0 medquad train samples
+03/24/2021 10:28:13 Loaded 0 medquad dev samples
+03/24/2021 10:45:18 Loaded 11232 MedNLI train samples
+03/24/2021 10:45:18 Loaded 1395 MedNLI dev samples
+03/24/2021 10:45:18 Loaded 1422 MedNLI test samples
+03/24/2021 10:45:20 Loaded 392702 MNLI train samples
+03/24/2021 10:45:20 Loaded 9815 MNLI matched dev samples
+03/24/2021 10:45:20 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 10:45:20 Loaded 9796 MNLI matched test samples
+03/24/2021 10:45:20 Loaded 9847 MNLI mismatched test samples
+03/24/2021 10:45:20 Loaded 8588 rqe train samples
+03/24/2021 10:45:20 Loaded 302 rqe dev samples
+03/24/2021 10:45:20 Loaded 230 rqe test samples
+03/24/2021 10:45:20 Loaded 8742 rqe_shuff train samples
+03/24/2021 10:45:20 Loaded 148 rqe_shuff dev samples
+03/24/2021 10:45:20 Loaded 230 rqe_shuff test samples
+03/24/2021 10:45:21 Loaded 1504 mediqa train samples
+03/24/2021 10:45:21 Loaded 5 mediqa dev samples
+03/24/2021 10:45:21 Loaded 1107 mediqa test samples
+03/24/2021 10:45:21 Loaded 1387,548 mediqa splitted samples
+03/24/2021 10:45:21 Loaded 1411,524 mediqa splitted samples
+03/24/2021 10:45:21 Loaded 1381,554 mediqa splitted samples
+03/24/2021 10:45:21 Loaded 1392,543 mediqa splitted samples
+03/24/2021 10:45:21 Loaded 1381,554 mediqa splitted samples
+03/24/2021 11:32:17 Loaded 11232 MedNLI train samples
+03/24/2021 11:32:17 Loaded 1395 MedNLI dev samples
+03/24/2021 11:32:17 Loaded 1422 MedNLI test samples
+03/24/2021 11:32:20 Loaded 392702 MNLI train samples
+03/24/2021 11:32:20 Loaded 9815 MNLI matched dev samples
+03/24/2021 11:32:20 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 11:32:20 Loaded 9796 MNLI matched test samples
+03/24/2021 11:32:20 Loaded 9847 MNLI mismatched test samples
+03/24/2021 11:32:20 Loaded 8588 rqe train samples
+03/24/2021 11:32:20 Loaded 302 rqe dev samples
+03/24/2021 11:32:20 Loaded 230 rqe test samples
+03/24/2021 11:32:20 Loaded 8742 rqe_shuff train samples
+03/24/2021 11:32:20 Loaded 148 rqe_shuff dev samples
+03/24/2021 11:32:20 Loaded 230 rqe_shuff test samples
+03/24/2021 11:32:20 Loaded 1504 mediqa train samples
+03/24/2021 11:32:20 Loaded 5 mediqa dev samples
+03/24/2021 11:32:20 Loaded 1107 mediqa test samples
+03/24/2021 11:32:20 Loaded 1387,548 mediqa splitted samples
+03/24/2021 11:32:20 Loaded 1411,524 mediqa splitted samples
+03/24/2021 11:32:20 Loaded 1381,554 mediqa splitted samples
+03/24/2021 11:32:20 Loaded 1392,543 mediqa splitted samples
+03/24/2021 11:32:20 Loaded 1381,554 mediqa splitted samples
+03/24/2021 11:33:57 Loaded 38212 medquad train samples
+03/24/2021 11:33:57 Loaded 4927 medquad dev samples
+03/24/2021 11:38:04 Loaded 11232 MedNLI train samples
+03/24/2021 11:38:04 Loaded 1395 MedNLI dev samples
+03/24/2021 11:38:04 Loaded 1422 MedNLI test samples
+03/24/2021 11:38:07 Loaded 392702 MNLI train samples
+03/24/2021 11:38:07 Loaded 9815 MNLI matched dev samples
+03/24/2021 11:38:07 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 11:38:07 Loaded 9796 MNLI matched test samples
+03/24/2021 11:38:07 Loaded 9847 MNLI mismatched test samples
+03/24/2021 11:38:07 Loaded 8588 rqe train samples
+03/24/2021 11:38:07 Loaded 302 rqe dev samples
+03/24/2021 11:38:07 Loaded 230 rqe test samples
+03/24/2021 11:38:07 Loaded 8742 rqe_shuff train samples
+03/24/2021 11:38:07 Loaded 148 rqe_shuff dev samples
+03/24/2021 11:38:07 Loaded 230 rqe_shuff test samples
+03/24/2021 11:38:07 Loaded 1504 mediqa train samples
+03/24/2021 11:38:07 Loaded 5 mediqa dev samples
+03/24/2021 11:38:07 Loaded 1107 mediqa test samples
+03/24/2021 11:38:07 Loaded 1387,548 mediqa splitted samples
+03/24/2021 11:38:07 Loaded 1411,524 mediqa splitted samples
+03/24/2021 11:38:07 Loaded 1381,554 mediqa splitted samples
+03/24/2021 11:38:07 Loaded 1392,543 mediqa splitted samples
+03/24/2021 11:38:07 Loaded 1381,554 mediqa splitted samples
+03/24/2021 11:38:34 Loaded 38212 medquad train samples
+03/24/2021 11:38:34 Loaded 4927 medquad dev samples
+03/24/2021 11:42:55 done with mnli
+03/24/2021 11:43:03 done with mednli
+03/24/2021 11:43:09 done with rqe
+03/24/2021 11:43:16 done with rqe_shuff
+03/24/2021 01:02:24 Loaded 11232 MedNLI train samples
+03/24/2021 01:02:24 Loaded 1395 MedNLI dev samples
+03/24/2021 01:02:24 Loaded 1422 MedNLI test samples
+03/24/2021 01:02:28 Loaded 392702 MNLI train samples
+03/24/2021 01:02:28 Loaded 9815 MNLI matched dev samples
+03/24/2021 01:02:28 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 01:02:28 Loaded 9796 MNLI matched test samples
+03/24/2021 01:02:28 Loaded 9847 MNLI mismatched test samples
+03/24/2021 01:02:28 Loaded 8588 rqe train samples
+03/24/2021 01:02:28 Loaded 302 rqe dev samples
+03/24/2021 01:02:28 Loaded 230 rqe test samples
+03/24/2021 01:02:28 Loaded 8742 rqe_shuff train samples
+03/24/2021 01:02:28 Loaded 148 rqe_shuff dev samples
+03/24/2021 01:02:28 Loaded 230 rqe_shuff test samples
+03/24/2021 01:02:28 Loaded 1504 mediqa train samples
+03/24/2021 01:02:28 Loaded 5 mediqa dev samples
+03/24/2021 01:02:28 Loaded 1107 mediqa test samples
+03/24/2021 01:02:28 Loaded 1387,548 mediqa splitted samples
+03/24/2021 01:02:28 Loaded 1411,524 mediqa splitted samples
+03/24/2021 01:02:28 Loaded 1381,554 mediqa splitted samples
+03/24/2021 01:02:28 Loaded 1392,543 mediqa splitted samples
+03/24/2021 01:02:28 Loaded 1381,554 mediqa splitted samples
+03/24/2021 01:03:10 Loaded 11232 MedNLI train samples
+03/24/2021 01:03:10 Loaded 1395 MedNLI dev samples
+03/24/2021 01:03:10 Loaded 1422 MedNLI test samples
+03/24/2021 01:03:13 Loaded 392702 MNLI train samples
+03/24/2021 01:03:13 Loaded 9815 MNLI matched dev samples
+03/24/2021 01:03:13 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 01:03:13 Loaded 9796 MNLI matched test samples
+03/24/2021 01:03:13 Loaded 9847 MNLI mismatched test samples
+03/24/2021 01:03:13 Loaded 8588 rqe train samples
+03/24/2021 01:03:13 Loaded 302 rqe dev samples
+03/24/2021 01:03:13 Loaded 230 rqe test samples
+03/24/2021 01:03:13 Loaded 8742 rqe_shuff train samples
+03/24/2021 01:03:13 Loaded 148 rqe_shuff dev samples
+03/24/2021 01:03:13 Loaded 230 rqe_shuff test samples
+03/24/2021 01:03:13 Loaded 1504 mediqa train samples
+03/24/2021 01:03:13 Loaded 5 mediqa dev samples
+03/24/2021 01:03:13 Loaded 1107 mediqa test samples
+03/24/2021 01:03:13 Loaded 1387,548 mediqa splitted samples
+03/24/2021 01:03:13 Loaded 1411,524 mediqa splitted samples
+03/24/2021 01:03:13 Loaded 1381,554 mediqa splitted samples
+03/24/2021 01:03:13 Loaded 1392,543 mediqa splitted samples
+03/24/2021 01:03:13 Loaded 1381,554 mediqa splitted samples
+03/24/2021 01:03:44 Loaded 38212 medquad train samples
+03/24/2021 01:03:44 Loaded 4927 medquad dev samples
+03/24/2021 01:08:20 done with mnli
+03/24/2021 01:08:28 done with mednli
+03/24/2021 01:08:34 done with rqe
+03/24/2021 01:08:41 done with rqe_shuff
+03/24/2021 01:12:50 Loaded 11232 MedNLI train samples
+03/24/2021 01:12:50 Loaded 1395 MedNLI dev samples
+03/24/2021 01:12:50 Loaded 1422 MedNLI test samples
+03/24/2021 01:12:53 Loaded 392702 MNLI train samples
+03/24/2021 01:12:53 Loaded 9815 MNLI matched dev samples
+03/24/2021 01:12:53 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 01:12:53 Loaded 9796 MNLI matched test samples
+03/24/2021 01:12:53 Loaded 9847 MNLI mismatched test samples
+03/24/2021 01:12:53 Loaded 8588 rqe train samples
+03/24/2021 01:12:53 Loaded 302 rqe dev samples
+03/24/2021 01:12:53 Loaded 230 rqe test samples
+03/24/2021 01:12:53 Loaded 8742 rqe_shuff train samples
+03/24/2021 01:12:53 Loaded 148 rqe_shuff dev samples
+03/24/2021 01:12:53 Loaded 230 rqe_shuff test samples
+03/24/2021 01:12:53 Loaded 1504 mediqa train samples
+03/24/2021 01:12:53 Loaded 431 mediqa dev samples
+03/24/2021 01:12:53 Loaded 1107 mediqa test samples
+03/24/2021 01:12:53 Loaded 1387,548 mediqa splitted samples
+03/24/2021 01:12:53 Loaded 1411,524 mediqa splitted samples
+03/24/2021 01:12:53 Loaded 1381,554 mediqa splitted samples
+03/24/2021 01:12:53 Loaded 1392,543 mediqa splitted samples
+03/24/2021 01:12:53 Loaded 1381,554 mediqa splitted samples
+03/24/2021 01:13:20 Loaded 38212 medquad train samples
+03/24/2021 01:13:20 Loaded 4927 medquad dev samples
+03/24/2021 01:17:51 done with mnli
+03/24/2021 01:17:58 done with mednli
+03/24/2021 01:18:05 done with rqe
+03/24/2021 01:18:13 done with rqe_shuff
+03/24/2021 01:23:42 Loaded 11232 MedNLI train samples
+03/24/2021 01:23:42 Loaded 1395 MedNLI dev samples
+03/24/2021 01:23:42 Loaded 1422 MedNLI test samples
+03/24/2021 01:23:44 Loaded 392702 MNLI train samples
+03/24/2021 01:23:44 Loaded 9815 MNLI matched dev samples
+03/24/2021 01:23:44 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 01:23:44 Loaded 9796 MNLI matched test samples
+03/24/2021 01:23:44 Loaded 9847 MNLI mismatched test samples
+03/24/2021 01:23:45 Loaded 8588 rqe train samples
+03/24/2021 01:23:45 Loaded 302 rqe dev samples
+03/24/2021 01:23:45 Loaded 230 rqe test samples
+03/24/2021 01:23:45 Loaded 8742 rqe_shuff train samples
+03/24/2021 01:23:45 Loaded 148 rqe_shuff dev samples
+03/24/2021 01:23:45 Loaded 230 rqe_shuff test samples
+03/24/2021 01:23:45 Loaded 1504 mediqa train samples
+03/24/2021 01:23:45 Loaded 431 mediqa dev samples
+03/24/2021 01:23:45 Loaded 1107 mediqa test samples
+03/24/2021 01:23:45 Loaded 1387,548 mediqa splitted samples
+03/24/2021 01:23:45 Loaded 1411,524 mediqa splitted samples
+03/24/2021 01:23:45 Loaded 1381,554 mediqa splitted samples
+03/24/2021 01:23:45 Loaded 1392,543 mediqa splitted samples
+03/24/2021 01:23:45 Loaded 1381,554 mediqa splitted samples
+03/24/2021 01:25:31 Loaded 11232 MedNLI train samples
+03/24/2021 01:25:31 Loaded 1395 MedNLI dev samples
+03/24/2021 01:25:31 Loaded 1422 MedNLI test samples
+03/24/2021 01:25:33 Loaded 392702 MNLI train samples
+03/24/2021 01:25:33 Loaded 9815 MNLI matched dev samples
+03/24/2021 01:25:33 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 01:25:33 Loaded 9796 MNLI matched test samples
+03/24/2021 01:25:33 Loaded 9847 MNLI mismatched test samples
+03/24/2021 01:25:34 Loaded 8588 rqe train samples
+03/24/2021 01:25:34 Loaded 302 rqe dev samples
+03/24/2021 01:25:34 Loaded 230 rqe test samples
+03/24/2021 01:25:34 Loaded 8742 rqe_shuff train samples
+03/24/2021 01:25:34 Loaded 148 rqe_shuff dev samples
+03/24/2021 01:25:34 Loaded 230 rqe_shuff test samples
+03/24/2021 01:26:18 Loaded 11232 MedNLI train samples
+03/24/2021 01:26:18 Loaded 1395 MedNLI dev samples
+03/24/2021 01:26:18 Loaded 1422 MedNLI test samples
+03/24/2021 01:26:21 Loaded 392702 MNLI train samples
+03/24/2021 01:26:21 Loaded 9815 MNLI matched dev samples
+03/24/2021 01:26:21 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 01:26:21 Loaded 9796 MNLI matched test samples
+03/24/2021 01:26:21 Loaded 9847 MNLI mismatched test samples
+03/24/2021 01:26:21 Loaded 8588 rqe train samples
+03/24/2021 01:26:21 Loaded 302 rqe dev samples
+03/24/2021 01:26:21 Loaded 230 rqe test samples
+03/24/2021 01:26:21 Loaded 8742 rqe_shuff train samples
+03/24/2021 01:26:21 Loaded 148 rqe_shuff dev samples
+03/24/2021 01:26:21 Loaded 230 rqe_shuff test samples
+03/24/2021 01:26:21 Loaded 1504 mediqa train samples
+03/24/2021 01:26:21 Loaded 431 mediqa dev samples
+03/24/2021 01:26:21 Loaded 1107 mediqa test samples
+03/24/2021 01:27:02 Loaded 11232 MedNLI train samples
+03/24/2021 01:27:02 Loaded 1395 MedNLI dev samples
+03/24/2021 01:27:02 Loaded 1422 MedNLI test samples
+03/24/2021 01:27:04 Loaded 392702 MNLI train samples
+03/24/2021 01:27:04 Loaded 9815 MNLI matched dev samples
+03/24/2021 01:27:04 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 01:27:04 Loaded 9796 MNLI matched test samples
+03/24/2021 01:27:04 Loaded 9847 MNLI mismatched test samples
+03/24/2021 01:27:04 Loaded 8588 rqe train samples
+03/24/2021 01:27:04 Loaded 302 rqe dev samples
+03/24/2021 01:27:04 Loaded 230 rqe test samples
+03/24/2021 01:27:04 Loaded 8742 rqe_shuff train samples
+03/24/2021 01:27:04 Loaded 148 rqe_shuff dev samples
+03/24/2021 01:27:04 Loaded 230 rqe_shuff test samples
+03/24/2021 01:27:04 Loaded 1504 mediqa train samples
+03/24/2021 01:27:04 Loaded 431 mediqa dev samples
+03/24/2021 01:27:04 Loaded 1107 mediqa test samples
+03/24/2021 01:28:44 Loaded 11232 MedNLI train samples
+03/24/2021 01:28:44 Loaded 1395 MedNLI dev samples
+03/24/2021 01:28:44 Loaded 1422 MedNLI test samples
+03/24/2021 01:28:47 Loaded 392702 MNLI train samples
+03/24/2021 01:28:47 Loaded 9815 MNLI matched dev samples
+03/24/2021 01:28:47 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 01:28:47 Loaded 9796 MNLI matched test samples
+03/24/2021 01:28:47 Loaded 9847 MNLI mismatched test samples
+03/24/2021 01:28:47 Loaded 8588 rqe train samples
+03/24/2021 01:28:47 Loaded 302 rqe dev samples
+03/24/2021 01:28:47 Loaded 230 rqe test samples
+03/24/2021 01:28:47 Loaded 8742 rqe_shuff train samples
+03/24/2021 01:28:47 Loaded 148 rqe_shuff dev samples
+03/24/2021 01:28:47 Loaded 230 rqe_shuff test samples
+03/24/2021 01:28:47 Loaded 1504 mediqa train samples
+03/24/2021 01:28:47 Loaded 431 mediqa dev samples
+03/24/2021 01:28:47 Loaded 1107 mediqa test samples
+03/24/2021 01:28:47 Loaded 1387,548 mediqa splitted samples
+03/24/2021 01:28:47 Loaded 1411,524 mediqa splitted samples
+03/24/2021 01:28:47 Loaded 1381,554 mediqa splitted samples
+03/24/2021 01:28:47 Loaded 1392,543 mediqa splitted samples
+03/24/2021 01:28:47 Loaded 1381,554 mediqa splitted samples
+03/24/2021 01:29:13 Loaded 38212 medquad train samples
+03/24/2021 01:29:13 Loaded 4927 medquad dev samples
+03/24/2021 01:33:48 done with mnli
+03/24/2021 01:33:55 done with mednli
+03/24/2021 01:34:02 done with rqe
+03/24/2021 01:34:09 done with rqe_shuff
+03/24/2021 01:36:10 done with mediqa
+03/24/2021 01:39:29 done with medquad
+03/24/2021 10:44:09 Loaded 11232 MedNLI train samples
+03/24/2021 10:44:09 Loaded 1395 MedNLI dev samples
+03/24/2021 10:44:09 Loaded 1422 MedNLI test samples
+03/24/2021 10:44:21 Loaded 392702 MNLI train samples
+03/24/2021 10:44:21 Loaded 9815 MNLI matched dev samples
+03/24/2021 10:44:21 Loaded 9832 MNLI mismatched dev samples
+03/24/2021 10:44:21 Loaded 9796 MNLI matched test samples
+03/24/2021 10:44:21 Loaded 9847 MNLI mismatched test samples
+03/24/2021 10:44:23 Loaded 8588 rqe train samples
+03/24/2021 10:44:23 Loaded 302 rqe dev samples
+03/24/2021 10:44:23 Loaded 230 rqe test samples
+03/24/2021 10:44:23 Loaded 8742 rqe_shuff train samples
+03/24/2021 10:44:23 Loaded 148 rqe_shuff dev samples
+03/24/2021 10:44:23 Loaded 230 rqe_shuff test samples
+03/24/2021 10:44:25 Loaded 1504 mediqa train samples
+03/24/2021 10:44:25 Loaded 431 mediqa dev samples
+03/24/2021 10:44:25 Loaded 1107 mediqa test samples
+03/24/2021 10:44:25 Loaded 1387,548 mediqa splitted samples
+03/24/2021 10:44:25 Loaded 1411,524 mediqa splitted samples
+03/24/2021 10:44:25 Loaded 1381,554 mediqa splitted samples
+03/24/2021 10:44:25 Loaded 1392,543 mediqa splitted samples
+03/24/2021 10:44:25 Loaded 1381,554 mediqa splitted samples
+03/24/2021 11:34:48 Loaded 38456 medquad train samples
+03/24/2021 11:34:48 Loaded 4725 medquad dev samples
+03/24/2021 11:43:58 done with mnli
+03/24/2021 11:44:12 done with mednli
+03/24/2021 11:44:25 done with rqe
+03/24/2021 11:44:38 done with rqe_shuff
+03/24/2021 11:47:54 done with mediqa
+03/24/2021 11:53:37 done with medquad
+03/25/2021 10:37:05 Loaded 11232 MedNLI train samples
+03/25/2021 10:37:05 Loaded 1395 MedNLI dev samples
+03/25/2021 10:37:05 Loaded 1422 MedNLI test samples
+03/25/2021 10:37:17 Loaded 392702 MNLI train samples
+03/25/2021 10:37:17 Loaded 9815 MNLI matched dev samples
+03/25/2021 10:37:17 Loaded 9832 MNLI mismatched dev samples
+03/25/2021 10:37:17 Loaded 9796 MNLI matched test samples
+03/25/2021 10:37:17 Loaded 9847 MNLI mismatched test samples
+03/25/2021 10:37:18 Loaded 8588 rqe train samples
+03/25/2021 10:37:18 Loaded 302 rqe dev samples
+03/25/2021 10:37:18 Loaded 230 rqe test samples
+03/25/2021 10:37:18 Loaded 8742 rqe_shuff train samples
+03/25/2021 10:37:18 Loaded 148 rqe_shuff dev samples
+03/25/2021 10:37:18 Loaded 230 rqe_shuff test samples
+03/25/2021 10:37:20 Loaded 1504 mediqa train samples
+03/25/2021 10:37:20 Loaded 431 mediqa dev samples
+03/25/2021 10:37:20 Loaded 1107 mediqa test samples
+03/25/2021 10:37:20 Loaded 1387,548 mediqa splitted samples
+03/25/2021 10:37:20 Loaded 1411,524 mediqa splitted samples
+03/25/2021 10:37:20 Loaded 1381,554 mediqa splitted samples
+03/25/2021 10:37:20 Loaded 1392,543 mediqa splitted samples
+03/25/2021 10:37:20 Loaded 1381,554 mediqa splitted samples
+03/25/2021 11:21:35 Loaded 38456 medquad train samples
+03/25/2021 11:21:35 Loaded 4725 medquad dev samples
+03/25/2021 11:25:47 done with mnli
+03/25/2021 11:25:54 done with mednli
+03/25/2021 11:26:00 done with rqe
+03/25/2021 11:26:06 done with rqe_shuff
+03/25/2021 11:27:59 done with mediqa
+03/25/2021 11:31:01 done with medquad
